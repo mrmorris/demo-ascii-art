@@ -2,7 +2,7 @@
 
 Welcome to the project
 
-This is a more thorough readme:
+## Arrdvark
 
 ```bash
                  ,-'          `'--.
@@ -18,3 +18,6 @@ This is a more thorough readme:
 -hrr-   .;;./  '   )   '   )       ///'       `-"'
         `--'   7//\    ///\
  ```
+
+ What a fun thing.
+
