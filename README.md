@@ -1,3 +1,3 @@
 # Read me
 
-Welcome to the project
+The wonderful world of ascii art
