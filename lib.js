@@ -1,9 +1,9 @@
-function hello() {
-  console.log('Hello World');
+function hello(arg) {
+  console.log(`Hello ${arg} World`);
 }
 
-function goodbye() {
-  console.log('Goodbye World');
+function goodbye(arg) {
+  console.log(`Goodbye ${arg} World`);
 }
 
 function recurse(n) {
