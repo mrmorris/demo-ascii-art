@@ -1,8 +1,8 @@
-function hello(arg) {
+function sayHello(arg) {
   console.log(`Hello ${arg} World`);
 }
 
-function goodbye(arg) {
+function sayGoodbye(arg) {
   console.log(`Goodbye ${arg} World`);
 }
 
